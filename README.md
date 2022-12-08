@@ -1,4 +1,4 @@
-# Creating a repository
+# Create a repository
 In the upper-right corner of any page, use the + drop-down menu, and select **New repository**.
 Type a short, memorable name for your repository, for example, "hello-world", in the **Repository name** box. 
 Optionally, add a description of your repository for example, "My first repository on GitHub" in the **Description box**.
