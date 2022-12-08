@@ -1,7 +1,7 @@
 # Create a repository
 1. In the upper-right corner of any page, use the **+** drop-down menu, and select **New repository**.
 2. Type a short, memorable name for your repository, for example, "hello-world", in the **Repository name** box. 
-3. Optionally, add a description of your repository for example, "My first repository on GitHub" in the **Description box**.
+3. Optionally, add a description of your repository for example, "My first repository on GitHub" in the **Description** box.
 4. Select whether your repository will be **Public** or **Private**.
 5. Select **Add a README file**.
 6. Click **Create repository**.
